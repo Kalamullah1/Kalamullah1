@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalamullah1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning jquery 
+- 🌱 I’m a data science enthusiast 
 - 💞️ I’m looking to collaborate on web base projects 
 - 📫 How to reach me through my email: 
 a.bmuser1@gmail.com
